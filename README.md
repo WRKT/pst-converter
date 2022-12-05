@@ -11,4 +11,4 @@
 
 Pour informations, le script présent dans le dossier /home/sysadmin/Conversion/ est le dernier script à jour. Ne touchez pas aux scripts se situant dans le dossier scripts, ils servent à voir l'évolution des différentes versions du script. L'objectif est qu'il soit le plus simple possible.
 
-- WRKT -
+~~ WRKT ~~

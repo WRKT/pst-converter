@@ -23,7 +23,7 @@ convert(){
 		find out -name mbox -type f |xargs -d '\n' -I{} echo '"{}" "{}"' |sed -e 's/\.sbd\/mbox"$/"/' |xargs -L 1 mvi
 
 		# Renommer le dossier converti et déplacer dans le dossier Archives
-		mv out/* out/$newname && mv out/* Archives/
+		mv out/* out/__$newname && mv out/* Archives/
 	done
 }
 

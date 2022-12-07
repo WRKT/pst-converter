@@ -1,4 +1,4 @@
-# Guide d'utilisation de la machine de conversion
+# Guide d'utilisation du script de conversion
 
 1. Déposez les fichiers .pst dans le dossier in
 
